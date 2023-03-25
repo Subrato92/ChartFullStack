@@ -13,7 +13,14 @@ BackEnd Service Description :
 		2. GET /data/all : Responsible for fetching File Data
 			curl --location --request GET 'http://localhost:8080/data/all?fileId=1'
 		
-	This service has integrated H2 In Memory dB for storing csv data.
+	This service has integrated H2 In Memory dB for storing csv data. 
+	
+	Connection Details -
+		URL : http://localhost:8080/h2-console
+		Jdbc Url : jdbc:h2:mem:testdb
+		Username : sa
+		Passwprd : password
+		
 	It will have two Tables - 
 		1. FileDetails
 		1. FileData
