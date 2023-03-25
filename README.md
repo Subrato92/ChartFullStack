@@ -31,6 +31,10 @@ FrontEnd Service Description :
 	Dependencies -
 		1. npm 9.6.2
 	
+	NOTE : If the front end module not getting downloaded - 
+	       use git link : https://github.com/Subrato92/ChartFullStack-Fe.git
+	       to download the frontend part of the project.
+	
 Execution Steps : 
 
 	1. First start the backend Service (wellsfergo-be) 
