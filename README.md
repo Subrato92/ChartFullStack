@@ -2,7 +2,7 @@ This project has three folders
 
 	1. "fwfullstackrole_wellsfargo_codetest" - The test description folder
 	2. "wellsfergo-be" : SpringBoot BackEnd Service
-	3. "wellsfergo-fe" : React FrontEnd Service
+	3. "ChartFullStack-Fe" : React FrontEnd Service
 
 BackEnd Service Description : 
 
