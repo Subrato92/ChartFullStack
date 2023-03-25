@@ -17,12 +17,19 @@ BackEnd Service Description :
 	It will have two Tables - 
 		1. FileDetails
 		1. FileData
+	
+	Dependencies -
+		1. JDK 11
+		2. Maven 3.6.3
 		
 FrontEnd Service Description :
 
 	1. Frontend Service is based on React.js
 	2. I have used Chart.js for Data visualization
 	3. Used BootStrap 5 for Styling
+	
+	Dependencies -
+		1. npm 9.6.2
 	
 Execution Steps : 
 
