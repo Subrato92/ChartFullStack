@@ -1,0 +1,3 @@
+[submodule "ChartFullStack-Fe"]
+	path = ChartFullStack-Fe
+	url = https://github.com/Subrato92/ChartFullStack-Fe.git
